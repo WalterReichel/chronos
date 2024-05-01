@@ -21,7 +21,7 @@
     "pinia": "^2.1.6",
     "pinia-plugin-persistedstate": "^3.2.0",
     "unhead": "^1.8.10",
-    "vue": "^3.2.47",
+    "vue": "^3.4.26",
     "vue-highlightjs": "^1.3.3",
     "vue-router": "^4.2.5"
   },
